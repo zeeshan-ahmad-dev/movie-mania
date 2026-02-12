@@ -1,41 +1,45 @@
 # Movie Mania
 
-A simple landing page for a movie streaming website built using pure HTML, CSS, and JavaScript.
+A simple movie streaming landing page built using pure HTML, CSS, and JavaScript.
 
-## Live Demo:
+🔗 **Live Demo:**  
 https://zeeshan-ahmad-dev.github.io/movie-mania/
+
+---
 
 ## About
 
-This is a front-end landing page project made for practice.
-The goal was to create a clean, modern streaming-style homepage without using any frameworks.
+This is one of my earlier front-end practice projects.  
+I built it to practice creating a streaming-style homepage layout without using any frameworks.
 
-Everything is built from scratch using vanilla HTML, CSS, and JavaScript.
+Everything is written in vanilla HTML, CSS, and JavaScript.
+
+---
 
 ## Features
 
-Responsive design
+- Responsive layout  
+- Hero section  
+- Movie cards design  
+- Basic hover effects  
+- Simple UI structure  
 
-Hero section with call-to-action
+---
 
-Movie cards layout
+## Tech Stack
 
-Smooth hover effects
+- HTML  
+- CSS  
+- JavaScript  
 
-Simple and clean UI
+---
 
-## Tech Used
+## Run Locally
 
-HTML5
+Clone or download the repository and open `index.html` in your browser.
 
-CSS3
+---
 
-JavaScript
+## Note
 
-## How to Run
-
-Just download or clone the repo and open index.html in your browser.
-
-## Why I Built This
-
-I created this project to practice layout structuring, responsive design, and UI styling without relying on libraries or frameworks.
+This project was created as part of my learning journey and reflects my earlier stage in front-end development.
